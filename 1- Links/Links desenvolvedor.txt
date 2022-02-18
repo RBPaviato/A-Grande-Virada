@@ -4,3 +4,4 @@ Links uteis para aprender a programar:
 3- Markdown Guide - traz um guia para ajudar a usar este tipo de linguagem, que é a utilizada no desenvolvimento de sites - https://www.markdownguide.org/basic-syntax/;
 4- Studio Code - site que tem um programa para ensinar a programação utilizando telas do Minecraft, com blocos pré programados - https://studio.code.org/s/mc/lessons/1/levels/1 
 5- Scratch - site muito parecido com o studio, tem blocos já pré programados - https://scratch.mit.edu/
+6- .Net - baixar o .Net - https://dotnet.microsoft.com/en-us/download
